@@ -1,0 +1,12 @@
+.grid-maker {
+  padding: 2px;
+}
+.rotten {
+  color: brown;
+}
+.good {
+  color: green;
+}
+.empty {
+  color: grey;
+}
