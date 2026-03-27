@@ -1,2 +1,2 @@
 # Rotten-Apples
-React game to stop the all the apples rotting
+React game to stop the apples rotting
